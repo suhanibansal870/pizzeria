@@ -1,4 +1,4 @@
-menu_list_array = ["Veggie Pizza","Cheese Pizza","Pepperoni Pizza", "Margherita Pizza";
+menu_list_array = ["Veggie Pizza","Cheese Pizza","Pepperoni Pizza", "Margherita Pizza"];
     
 function getmenu(){
     var htmldata;
